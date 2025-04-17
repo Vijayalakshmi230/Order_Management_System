@@ -2,7 +2,6 @@ package main;
 import dao.OrderProcessor;
 import entity.Product;
 import entity.User;
-import dao.OrderProcessor;
 import dao.OrderManagementRepository;
 
 import java.util.*;
